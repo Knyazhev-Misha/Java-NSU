@@ -1,0 +1,10 @@
+name 24
+Ent 10
+misha 4
+TT 18
+misha 47
+julia 52
+nina 45
+admin 31
+ab 113
+misha 49

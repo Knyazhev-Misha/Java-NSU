@@ -1,0 +1,9 @@
++ Calculator.Worker.Plus
+DEFINE Calculator.Worker.Define
+: Calculator.Worker.Divide
+- Calculator.Worker.Minus
+* Calculator.Worker.Multiply
+POP Calculator.Worker.Pop
+PRINT Calculator.Worker.Print
+SQRT Calculator.Worker.Sqrt
+PUSH Calculator.Worker.Push

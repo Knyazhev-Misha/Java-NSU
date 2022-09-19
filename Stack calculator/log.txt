@@ -1,0 +1,288 @@
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 2:54:50 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 2:56:07 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 2:56:40 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 2:58:23 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 3:00:07 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 3:01:00 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue :
+мая 10, 2022 3:01:10 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:12:36 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:12:36 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:12:36 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:12:36 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:16:09 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:16:09 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:16:09 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:16:09 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:16:35 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:16:35 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:16:35 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:16:35 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:16:46 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:16:46 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:16:46 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:16:46 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:16:53 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:16:53 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:16:53 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:16:53 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:17:01 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:17:01 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:17:01 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:17:01 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:17:22 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:17:22 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:17:22 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:17:22 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:18:56 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:18:56 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:18:56 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:18:56 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:18:59 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:18:59 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:18:59 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:18:59 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:24:20 AM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:24:20 AM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:24:20 AM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:24:20 AM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:45:31 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:45:49 PM Calculator.Parse parse
+INFO: add in execution queue 
+мая 10, 2022 3:47:29 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:47:45 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:49:21 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:49:27 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:49:32 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 10, 2022 3:49:46 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 10, 2022 3:50:29 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:50:37 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 10, 2022 3:50:44 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:50:49 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 10, 2022 3:50:55 PM Calculator.Parse parse
+INFO: add in execution queue +
+мая 10, 2022 3:51:00 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 4:22:35 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 4:22:35 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 4:22:35 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 4:22:35 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 4:22:51 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 4:22:51 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 4:22:51 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 4:22:51 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 4:23:02 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 4:23:02 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 4:23:02 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 4:23:02 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:12:03 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:12:03 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:12:03 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:12:03 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:12:49 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:12:50 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:12:50 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:12:50 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:12:56 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:12:56 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:12:56 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:12:56 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:30:00 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:30:00 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:30:00 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:30:00 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:34:10 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:34:10 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:34:10 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:34:10 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:34:43 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:34:43 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:34:43 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:34:43 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:46:16 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:46:16 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:46:16 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:46:16 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:46:43 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:46:43 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:46:43 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:46:43 PM Calculator.Parse parse
+INFO: add in execution queue PRINT
+мая 11, 2022 5:52:00 PM Calculator.Parse parse
+INFO: add in execution queue DEFINE
+мая 11, 2022 5:52:00 PM Calculator.Parse parse
+INFO: add in execution queue PUSH
+мая 11, 2022 5:52:00 PM Calculator.Parse parse
+INFO: add in execution queue SQRT
+мая 11, 2022 5:52:00 PM Calculator.Parse parse
+INFO: add in execution queue PRINT

@@ -1,0 +1,5 @@
+Lena 55
+Gora 4
+Tolya 24
+misha 320
+admin 199
